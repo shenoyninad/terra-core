@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[730],{2752:function(e,t,u){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var d=a(u(0)),n=a(u(285));function a(e){return e&&e.__esModule?e:{default:e}}t.default=function(){return d.default.createElement(n.default,{id:"searchfield",placeholder:"Search Text"})}}}]);
+//# sourceMappingURL=730-d2364e4c4942c4629e2b.js.map
